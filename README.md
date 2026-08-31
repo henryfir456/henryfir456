@@ -140,7 +140,7 @@ Modern Developer Tooling
 AI-assisted Development
       ↓
 Agentic Engineering
-
+```
 The interesting part is not replacing everything with AI.
 It's figuring out where AI genuinely improves engineering quality, speed, and maintainability.
 
