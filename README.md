@@ -140,3 +140,29 @@ Modern Developer Tooling
 AI-assisted Development
       ↓
 Agentic Engineering
+
+The interesting part is not replacing everything with AI.
+It's figuring out where AI genuinely improves engineering quality, speed, and maintainability.
+
+---
+
+## 🌱 Currently Exploring
+- Multi-agent software development
+- Token-efficient AI coding workflows
+- AI coding architecture patterns
+- Codex session telemetry
+- Software specification workflows
+- TDD with coding agents
+- Cross-platform application architecture
+
+---
+
+## 📊 GitHub
+Most of my current repositories are experiments, tools, or learning projects.
+I prefer publishing projects that demonstrate an idea or solve a real problem rather than maintaining a large number of repositories.
+
+---
+
+## 🤝 Connect
+Feel free to explore my repositories or open a discussion if you're interested in:
+AI development · automation · developer tools · software architecture
